@@ -1,30 +1,26 @@
 # Group_12
 DATA POISONING ATTACK AGAINST  GRAPH EMBEDDING BASED LINK PREDICTION
 
-#Dependencies
-  
-  python == 3.6.7
-  
-  tensorflow ==1.3.0
-  
-  networkx == 1.11
-  
-  Gpu
+# Dependencies
+  * python == 3.6.7
+  * tensorflow ==1.3.0
+  * networkx == 1.11
+  * Gpu
   
 
-#Dataset:
+# Dataset:
   
   facebook
   
 
-#Code:
+# Code:
   
   line.py  and model.py : Computing the embedding
   
   xxx_attack.py : Different ways to attack the social network 
   
   
-#Training:
+# Training:
  
  1.random attack:
  
