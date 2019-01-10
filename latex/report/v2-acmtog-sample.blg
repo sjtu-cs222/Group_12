@@ -1,0 +1,27 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: v2-acmtog-sample.aux
+The style file: ACM-Reference-Format-Journals.bst
+Database file #1: acmtog-sample-bibfile.bib
+I was expecting a `,' or a `}'---line 269 of file acmtog-sample-bibfile.bib
+ :  
+ :  note  = "",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty publisher in NeuralAttack
+Warning--empty address in NeuralAttack
+Warning--page numbers missing in both pages and numpages fields in NeuralAttack
+Warning--empty publisher in Node2vec
+Warning--empty address in Node2vec
+Warning--page numbers missing in both pages and numpages fields in Node2vec
+Warning--empty publisher in Matrixattack
+Warning--empty address in Matrixattack
+Warning--no number and no volume in Attack
+Warning--page numbers missing in both pages and numpages fields in Attack
+Warning--empty publisher in Deepwalk
+Warning--empty address in Deepwalk
+Warning--no number and no volume in Matrix
+Warning--page numbers missing in both pages and numpages fields in Matrix
+Warning--no number and no volume in Line
+Warning--page numbers missing in both pages and numpages fields in Line
+Warning--no number and no volume in NeuralAttack2
+Warning--page numbers missing in both pages and numpages fields in NeuralAttack2
+(There was 1 error message)

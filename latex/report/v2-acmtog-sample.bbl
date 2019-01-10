@@ -1,0 +1,120 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem[\protect\citeauthoryear{Dai, Li, Tian, Huang, Wang, Zhu, and Song}{Dai
+  et~al\mbox{.}}{2018}]%
+        {NeuralAttack}
+{Hanjun Dai}, {Hui Li}, {Tian Tian}, {Xin Huang}, {Lin Wang}, {Jun Zhu}, {and}
+  {Le Song}. 2018.
+\newblock \showarticletitle{Adversarial attack on graph structured data}. In
+  {\em Proceedings of the 35th International Conference on Machine Learning,
+  volume 80 of Proceedings of Machine Learning Research}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Grover and Leskovec}{Grover and
+  Leskovec}{2016}]%
+        {Node2vec}
+{Aditya Grover} {and} {Jure Leskovec}. 2016.
+\newblock \showarticletitle{node2vec: Scalable feature learning for networks}.
+  In {\em Proceedings of the 22nd ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Wang, Singh, and Vorobeychik}{Li
+  et~al\mbox{.}}{2016}]%
+        {Matrixattack}
+{Bo Li}, {Yining Wang}, {Aarti Singh}, {and} {Yevgeniy Vorobeychik}. 2016.
+\newblock \showarticletitle{Data poisoning attacks on factorization-based
+  collaborative filtering}. In {\em Advances in Neural Information Processing
+  Systems} {\em (29)}. Curran Associates, 1885--1893.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Miao, Li, Su, Huai, Jiang, and Gao}{Miao
+  et~al\mbox{.}}{2018}]%
+        {Attack}
+{Chenglin Miao}, {Qi Li}, {Lu Su}, {Mengdi Huai}, {Wenjun Jiang}, {and} {Jing
+  Gao}. 2018.
+\newblock \showarticletitle{Atack under Disguise: An Intelligent Data Poisoning
+  Atack Mechanism in Crowdsourcing}.
+\newblock {\em WWW\/} (April 2018).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Perozzi, Al-Rfou, and Skiena}{Perozzi
+  et~al\mbox{.}}{2014}]%
+        {Deepwalk}
+{Bryan Perozzi}, {Rami Al-Rfou}, {and} {Steven Skiena}. 2014.
+\newblock \showarticletitle{Deepwalk: Online learning of social
+  representations}. In {\em Proceedings of the 20th ACM SIGKDD International
+  Conference on Knowledge Discovery and Data Mining} {\em (KDD '14)}. 710--710.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Qiu, Dong, Ma, Li, Wang, and Tang}{Qiu
+  et~al\mbox{.}}{2017}]%
+        {Matrix}
+{Jiezhong Qiu}, {Yuxiao Dong}, {Hao Ma}, {Jian Li}, {Kuansan Wang}, {and} {Jie
+  Tang}. 2017.
+\newblock \showarticletitle{Network embedding as matrix factorization: Unifying
+  deepwalk, line, pte, and node2vec}.
+\newblock {\em CoRR\/} (2017).
+\newblock
+\showURL{%
+\url{http://arxiv.org/abs/1710.02971}}
+
+
+\bibitem[\protect\citeauthoryear{Tang, Qu, Wang, Zhang, Yan, and Mei}{Tang
+  et~al\mbox{.}}{2015}]%
+        {Line}
+{Jian Tang}, {Meng Qu}, {Mingzhe Wang}, {Ming Zhang}, {Jun Yan}, {and} {Qiaozhu
+  Mei}. 2015.
+\newblock \showarticletitle{Line: Large-scale information network embedding}.
+\newblock {\em ACM\/} (2015).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zugner, Akbarnejad, and Gunnemanni}{Zugner
+  et~al\mbox{.}}{2018}]%
+        {NeuralAttack2}
+{Daniel Zugner}, {Amir Akbarnejad}, {and} {Stephan Gunnemanni}. 2018.
+\newblock \showarticletitle{Adversarial attacks on neural networks for graph
+  data}.
+\newblock {\em KDD\/} (2018).
+\newblock
+
+
+\end{thebibliography}
