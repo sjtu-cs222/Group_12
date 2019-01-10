@@ -9,7 +9,9 @@ DATA POISONING ATTACK AGAINST  GRAPH EMBEDDING BASED LINK PREDICTION
   
 # Dataset:
   
-  facebook:This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using Facebook app. The dataset includes node features (profiles), circles, and ego networks. It's available in /code/facebook_graph.rar
+  facebook:This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using Facebook app. The dataset includes node features (profiles), circles, and ego networks. 
+  
+  It's available in /code/facebook_graph.rar
   
 
 # Code:
