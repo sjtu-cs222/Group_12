@@ -10,16 +10,19 @@ Dependencies
   networkx == 1.11
   
   Gpu
+  
 
 Dataset:
   
   facebook
+  
 
 Code:
   
   line.py  and model.py : Computing the embedding
   
   xxx_attack.py : Different ways to attack the social network 
+  
   
 Training:
  
@@ -31,6 +34,6 @@ Training:
  
     python target_attack.py
 
-3.available attack
+ 3.available attack:
 
     python available_attack.py
