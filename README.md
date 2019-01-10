@@ -2,9 +2,13 @@
 DATA POISONING ATTACK AGAINST  GRAPH EMBEDDING BASED LINK PREDICTION
 
 Dependencies
+  
   python == 3.6.7
+  
   tensorflow ==1.3.0
+  
   networkx == 1.11
+  
   Gpu
 
 Dataset:
